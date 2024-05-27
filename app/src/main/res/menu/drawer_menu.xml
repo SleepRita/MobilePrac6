@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/ant"
+        android:title="Муравей" />
+    <item
+        android:id="@+id/dragonfly"
+        android:title="Стрекоза" />
+    <item
+        android:id="@+id/bee"
+        android:title="Пчела" />
+    <item
+        android:id="@+id/bumblebee"
+        android:title="Шмель" />
+    <item
+        android:id="@+id/butterfly"
+        android:title="Бабочка" />
+    <item
+        android:id="@+id/next_activity"
+        android:title="Следующая Activity" />
+</menu>
